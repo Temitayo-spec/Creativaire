@@ -1,18 +1,4 @@
-# NEPTIS
-
-This project is a landing page built with Next.js and Framer Motion for animations.
-
-# Description
-
-This landing page showcases the capabilities of Next.js, a React framework for building modern web applications, and Framer Motion, a library for creating fluid and engaging animations. The landing page is designed to be visually appealing and interactive, providing an immersive user experience.
-
-# Features
-
-## Next.js: The landing page is built using Next.js, which provides server-side rendering, static site generation, and other powerful features out of the box
-
-## Framer Motion: The animations on the landing page are implemented using Framer Motion, a popular animation library for React. It enables smooth transitions, gestures, and other interactive effects
-
-## Responsive Design: The landing page is fully responsive and optimized for various screen sizes, ensuring a consistent experience across different devices
+# Creativaire
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
